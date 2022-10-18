@@ -49,9 +49,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/Nikhil-2002/Nikhil-2002/blob/main/images/left.png">
+    <img height="150" width="150" src="https://github.com/Nikhil-2002/nikhil_Falke/blob/main/images/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-2002&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/Nikhil-2002/Nikhil-2002/blob/main/images/right.png">
+    <img height="150" width="150" src="https://github.com/Nikhil-2002/nikhil_Falke/blob/main/images/right.png">
   </a>
 </p>
 
@@ -76,8 +76,8 @@
 ### Watch my contribution graph being eaten by a Snake! 🐍
   
 </div>
+![snake gif](https://github.com//Nikhil-2002/nikhil_Falke/blob/main/images/github-user-contribution.svg)
 
-![snake gif](https://github.com/kishanrajput23/kishanrajput23/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   
@@ -88,7 +88,8 @@
 
 </div>
 
-![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
+![footer](https://github.com/Nikhil-2002/nikhil_Falke/blob/main/images/footer.png)
+
 
 
 
