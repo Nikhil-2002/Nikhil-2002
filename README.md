@@ -1,4 +1,4 @@
-<h1 align="center">Welcome Coder`s</h1>
+<h1 align="center"><img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/>Welcome Coder`s<img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/></h1>
 <img src="https://raw.githubusercontent.com/13yadav/13yadav/master/covers/hacker.gif">
 <h1 align="center">Hi 👋, I'm Nikhil Falke</h1>
 <h3 align="center">A Passionate Developer from India</h3>
@@ -76,7 +76,7 @@
 ### Watch my contribution graph being eaten by a Snake! 🐍
   
 </div>
-![snake gif](https://github.com//Nikhil-2002/nikhil_Falke/blob/main/images/github-user-contribution.svg)
+![snake gif](https://github.com//Nikhil-2002/Nikhil-2002/blob/main/images/github-user-contribution.svg)
 <div align="center">
 
   <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
