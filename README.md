@@ -77,9 +77,13 @@
   
 </div>
 ![snake gif](https://github.com//Nikhil-2002/nikhil_Falke/blob/main/images/github-user-contribution.svg)
-
-
 <div align="center">
+
+  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Nikhil-2002/Nikhil-2002/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+  
   
   ## <h2 align="center">My Holopin Badges From HACKTOBERFEST 2022 </h2>
 [![@nikhil's Holopin board](https://holopin.me/nikhil)](https://holopin.io/@nikhil)
