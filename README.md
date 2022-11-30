@@ -66,17 +66,8 @@
 
 
 
-
-
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nikhil-2002&theme=react-dark&hide_border=true&area=true)
 
-<div align="center">
-
-### Watch my contribution graph being eaten by a Snake! 🐍
-  
-</div>
-![snake gif](https://github.com//Nikhil-2002/Nikhil-2002/blob/main/images/github-user-contribution.svg)
 <div align="center">
 
   <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
