@@ -19,9 +19,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/828/1*ZSVmWGcc1weENb0ShawWxw.gif">
 </a>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Data Structure & Algorithms**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Anything you want**
 
